@@ -15,8 +15,51 @@
           <br>
           <u class="text-blue-800"><h3 class="text-xl font-bold">Nuestra Historia</h3></u>
           <p class="text-justify mt-5">
-            En la Comunidad Santo Rosa de Lima, nace el 3 de Noviembre de 1996, bajo la inspiración del <b>Espíritu Santo</b>, que usó como instrumentos a los hermanos <b>Felix Durón y Dilcia Elvir</b>.
+            En la Comunidad Santo Rosa de Lima, nace el 3 de Noviembre de 1996, bajo la inspiración del <b>Espíritu Santo</b>, que usó como instrumentos a los hermanos <b>Felix Durón y Dilcia Elvir</b>. <br>
+            Durante estos 29 años, hemos sido testigos de la obra del Espíritu Santo en nuestras vidas y en la vida de nuestra comunidad. Ya que actualmente contamos con 9 grupos de oración, los cuales se reúnen semanalmente en diferentes días y horarios, en los cuales tenemos 2 grupos de varones, 1 grupo de jóvenes, 1 grupo de niños y 5 grupos de mujeres.
           </p>
+          <br>
+          <u class="text-blue-800"><h3 class="text-xl font-bold">Grupos de Oración</h3></u>
+          <p class="text-justify mt-5">
+            En la actualidad contamos con 9 grupos de oración, los cuales se reúnen semanalmente en diferentes días y horarios.
+          </p> <br><br>
+          <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+                <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+                    <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+                        <tr>
+                            <th scope="col" class="px-6 py-3">
+                                Nombre del Grupo
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                Nombre del Coordinador
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                Día de reunión
+                            </th>
+                            <th scope="col" class="px-6 py-3">
+                                Hora de reunión
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700 border-gray-200 hover:bg-gray-50 dark:hover:bg-gray-600">
+                            <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                Renacer en Cristo
+                            </th>
+                            <td class="px-6 py-4">
+                                Jorge Coello
+                            </td>
+                            <td class="px-6 py-4">
+                                Sábado
+                            </td>
+                            <td class="px-6 py-4">
+                                4:00 PM
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
         </div>
       </main>
     </div>
