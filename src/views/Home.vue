@@ -4,7 +4,7 @@
       <!-- Contenido Principal (Ocupa todo el espacio disponible) -->
       <main class="flex-grow container mx-auto p-4 ">
         <h1 class="text-3xl font-bold text-blue-800 mb-4 text-center">Bienvenidos a la RCC Santa Rosa de Lima</h1>
-        <img src="logorcc.png" alt="Logo de la comunidad" class="mx-auto w-1/4 m-0" >
+        <img src="logorcc.png" alt="Logo de la comunidad" class="mx-auto w-1/3 m-0" >
         <p class="text-lg text-gray-700 mb-4">¡Estamos encantados de tenerte aquí! En nuestra comunidad, nos esforzamos por brindar un ambiente acogedor y enriquecedor para todos.</p>
         <p class="text-lg text-gray-700 mb-4">Aquí encontrarás información sobre nuestros servicios, actividades y eventos. ¡Esperamos que disfrutes de tu visita!</p>
         <div class="flex justify-center">
